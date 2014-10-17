@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[esh:home|Door43 (esh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-esh|d43-esh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-esh/archive/master.zip|d43-esh.zip]]
+
+**Recent Changes**
+{{changes>ns = esh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/esh|Ethnologue data]]
+
